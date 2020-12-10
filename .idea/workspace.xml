@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="secondproduct:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc3fcf1f-ddb9-4cbe-9b09-cde9a1f3c10e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArithmeticsOperations-master/NewMavenProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BD/.idea/BD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BD/BD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BattleShip/BattleShip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalcConsole/CalcConsole.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator_origin/Calculator_origin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/CoffeeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/src/CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filmography/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filmography/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filmography/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filmography/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filmography/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filmography/Filmography.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filmography/src/main/java/webapp/pages/editPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filmography/src/main/java/webapp/pages/films.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/Flashcards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flashcards/src/Flashcards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hots/Hots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Morskoi/Morskoi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MusicBox/MusicBox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OPZ/OPZ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operations/Operations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostfixCalc/PostfixCalc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringHelloTutorial-master/SpringHelloTutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Twitter/Twitter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fimography/fimography.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstproduct/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstproduct/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstproduct/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstproduct/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstproduct/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstproduct/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstproduct/firstproduct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/WEB-INF/weblogic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/config/HibernateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/controller/GameListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/dao/GameListDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/dao/GameListDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/model/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/service/GameListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/java/testgroup/library/service/GameListServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/webapp/WEB-INF/pages/editPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/webapp/WEB-INF/pages/games.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/webapp/WEB-INF/pages/greetingPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/webapp/res/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/webapp/res/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library/src/main/webapp/res/tlotr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/meta.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/src/main/java/com/MetaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/src/main/java/com/example/meta/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../meta/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/java/util/logging/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/paparazzi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/src/main/java/testgroup/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/src/main/java/testgroup/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/src/main/java/testgroup/config/WebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/src/main/java/testgroup/controller/GameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/src/main/java/testgroup/model/Games.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/src/main/webapp/WEB-INF/pages/editGames.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paparazzi/src/main/webapp/WEB-INF/pages/games.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/testgroup/product/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/testgroup/product/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/testgroup/product/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/testgroup/product/config/WebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/testgroup/product/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/testgroup/product/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/testgroup/product/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/testgroup/product/controller/StudentControllerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/webapp/pages/customer-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/webapp/pages/customer-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/webapp/pages/helloworld-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/webapp/pages/helloworld.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/webapp/pages/main-menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/webapp/pages/student-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/webapp/pages/student-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/classes/testgroup/product/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/classes/testgroup/product/config/WebInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/classes/testgroup/product/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/classes/testgroup/product/config/WebInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/target/product-1.0-SNAPSHOT/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondproduct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testgroup/firstproduct/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testgroup/firstproduct/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testgroup/firstproduct/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testgroup/firstproduct/config/WebInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testgroup/firstproduct/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testgroup/firstproduct/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testgroup/firstproduct/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testgroup/firstproduct/controller/StudentControllerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/customer-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/customer-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/helloworld-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/helloworld.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/main-menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/student-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/student-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testgroup/firstproduct/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testgroup/firstproduct/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testgroup/firstproduct/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testgroup/firstproduct/config/WebInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testgroup/firstproduct/controller/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testgroup/firstproduct/controller/HelloWorldController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testgroup/firstproduct/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testgroup/firstproduct/controller/StudentControllerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/classes/testgroup/firstproduct/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/classes/testgroup/firstproduct/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/classes/testgroup/firstproduct/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/classes/testgroup/firstproduct/config/WebInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/classes/testgroup/firstproduct/controller/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/classes/testgroup/firstproduct/controller/HelloWorldController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/classes/testgroup/firstproduct/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/classes/testgroup/firstproduct/controller/StudentControllerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/FastInfoset-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/byte-buddy-1.10.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/dom4j-2.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-5.4.18.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/jandex-2.1.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.24.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/jaxb-runtime-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/stax-ex-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/WEB-INF/lib/txw2-2.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/pages/customer-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/pages/customer-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/pages/helloworld-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/pages/helloworld.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/pages/main-menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/pages/student-confirmation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/secondproduct-1.0-SNAPSHOT/pages/student-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../secondsecond/secondsecond.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/spring-demo-annotations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/AnnotationBeanScopeDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/AnnotationDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/DatabaseFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/JavaConfigDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/RESTFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/RandomFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/SadFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/SportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/SwimCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/SwimJavaConfigDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/java/com/luv2code/springdemo/sport.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/.idea/dictionaries/alexy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/spring-demo-one.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/beanLifeCycle-applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/beanScope-applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/BaseballCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/BeanLifeCycleDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/BeanScopeDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/Coach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/HappyFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/HelloSpringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/MyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/SetterDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/main/java/com/luv2code/springdemo/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-one/src/sport.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/artifacts/spring_mvc_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/spring-mvc-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-demo/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-first/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/spring-mvc-own.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/src/main/java/config/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/src/main/java/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/src/main/java/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/src/main/webapp/pages/editPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-mvc-own/src/main/webapp/pages/homePage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebapp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebapp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebapp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springwebapp/springwebapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../summa/.idea/summa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/src/main/java/com/example/sweater/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/src/main/java/com/example/sweater/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/src/main/resources/templates/greeting.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/src/main/resources/templates/main.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sweater/sweater.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegram2/telegram2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testzadach/testzadach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadachka/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadachka/zadachka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Счётчик/Счётчик.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../тест/тест.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bankomaaaat!/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bankomaaaat!/src/Bankomat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bankomaaaat!/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstmavenproject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../firstmavenproject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstmavenproject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../firstmavenproject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstmavenproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../firstmavenproject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstmavenproject/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../firstmavenproject/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstmavenproject/src/main/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../firstmavenproject/src/main/java/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1lTHxhBqh3liCcOweHiDhNUHzFn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexy\IdeaProjects\secondproduct\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 7.0.94" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.94" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="secondproduct:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_secondproduct" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56582" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="secondproduct:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_secondproduct" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56582" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc3fcf1f-ddb9-4cbe-9b09-cde9a1f3c10e" name="Default Changelist" comment="" />
+      <created>1607614408818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607614408818</updated>
+      <workItem from="1607614411669" duration="917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607614582531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607614582531" />
+    <state x="705" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607614452909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="705" y="288" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1607614452909" />
+    <state x="820" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1607614456938">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="820" y="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1607614456938" />
+    <state x="548" y="262" key="Github.ShareDialog" timestamp="1607615309881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="548" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1607615309881" />
+    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1607615121337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607615121337" />
+    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1607615121337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607615121337" />
+    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1607615121337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607615121337" />
+    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1607615121337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607615121337" />
+    <state width="905" height="179" key="GridCell.Tab.1.bottom" timestamp="1607615121203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607615121203" />
+    <state width="905" height="179" key="GridCell.Tab.1.center" timestamp="1607615121203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1607615121203" />
+    <state width="905" height="179" key="GridCell.Tab.1.left" timestamp="1607615121203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1607615121203" />
+    <state width="905" height="179" key="GridCell.Tab.1.right" timestamp="1607615121203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1607615121203" />
+    <state width="905" height="179" key="GridCell.Tab.2.bottom" timestamp="1607615121204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607615121204" />
+    <state width="905" height="179" key="GridCell.Tab.2.center" timestamp="1607615121203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1607615121203" />
+    <state width="905" height="179" key="GridCell.Tab.2.left" timestamp="1607615121203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1607615121203" />
+    <state width="905" height="179" key="GridCell.Tab.2.right" timestamp="1607615121203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1607615121203" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1607615011796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1607615011796" />
+  </component>
+</project>
